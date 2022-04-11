@@ -1,0 +1,190 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;    
+}
+
+.content {
+  width: 400px;
+  height: 450px;
+  border: 5px solid black;
+  text-align: center;
+  position: relative;
+  left: 450px;
+  top: 130px;
+  border-radius: 25px;
+}
+
+/* Title */
+.title {
+  position: relative;
+  top: 30px;
+}
+
+/* Inputs login */
+.email {
+  width: 350px;
+  height: 30px;
+  position: relative;
+  top: 40px;
+  left: 10px;  
+}
+
+.password {
+  width: 350px;
+  height: 30px;
+  position: relative;
+  top:40px
+}
+/* End inputs login */
+
+/* Botton Submit */
+.bnsub {
+  width: 180px;
+  height: 30px;
+  border-radius: 20px;
+  position: relative;
+  top: 240px;
+  right: 10px;
+}
+
+/* End botton Submit */
+
+/* Estos son los label  de login */
+.lbemail {
+  position: relative;
+  top: 50px;
+}
+
+.lbpassword {
+  position: relative;
+  top: 130px;
+}
+
+/* task all  */
+.task-item {
+  position: relative;
+  left: 150px;
+  top: 50px;
+}
+/* input  and form of userForm */
+.user-form {
+  position: relative;
+  left: 750px;
+  padding: 20px;  
+}
+.input-form {
+  margin: 15px;
+}
+
+.input-form:first-child{
+  position: relative;
+  right: 100px;
+  top: 11px;
+}
+
+.input-form:nth-child(2){  
+  position: relative;
+  left: 90px;
+  bottom: 23px;  
+}
+
+.input-form:nth-child(3) {
+  position: relative;
+  bottom: 10px;
+  right: 1px;
+}
+
+.submit1{
+  height: 30px;
+  width: 200px;
+  position: relative;
+  left: 10px;
+}
+.title-form{
+  position: relative;
+  left: 700px;
+  bottom: 320px;
+}
+/* End form user */
+
+/* input of createTask  */
+
+.user-formUser{
+  position: relative;
+  left: 90px;
+  bottom: 320px;  
+}
+.input-form1{
+  margin: 20px;
+}
+.title-task{
+  position: relative;
+  bottom: 500px;
+  left: 104px;
+}
+.submit{
+  height: 30px;
+  width: 200px;
+  position: relative;
+  left: 10px;  
+}
+/* end form createTask */
+
+/* button log out profile admin */
+.log-out{
+  position: relative;
+  left: 1200px;
+  top: 50px;
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+}
+
+/* start list task */
+.list-task{
+  position: relative;
+  bottom: 350px;
+  right: 60px;
+  list-style: none;
+  text-decoration: none;
+  margin: 10px;
+}
+.list-create {
+  height: 130px;
+  width: 300px;
+  border: 5px solid black;
+  border-radius: 20px;
+  padding: 10PX;
+}
+/* login */
+.btnlog{
+  position: relative;
+  top: 250px;
+  height: 40px;
+  width: 250px;
+}
+
+.input_container2{
+  position: relative;
+  left: 1px;
+  top: 100px;
+  height: 35px;
+  width: 260px;
+  border: 2px solid black;
+}
+
+.inp_pass{
+  position: relative;
+  left: 0px;
+  top: 160px;
+  height: 35px;
+  width: 260px;
+  border: 2px solid black;
+}
+
+
+
+
+
+
